@@ -1,4 +1,4 @@
-ads_it
-======
+ads_animals
+===========
 
-Provides common IT features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
